@@ -11,4 +11,4 @@ Este repositório tem como objetivo demonstrar o uso de ferramentas de documenta
 ## 👥 Autores
 - [Heitor Correa](https://github.com/1b24o)
 - [João pedro](https://github.com/jonasusb)
-- [insira nome](https://github.com/nomeinserido)
+- [Claudio Roberto](https://github.com/aauaauaauaa)
